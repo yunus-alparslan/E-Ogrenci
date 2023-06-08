@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\bin\Debug\EÖğrenci.exe.config
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\bin\Debug\EÖğrenci.exe
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\bin\Debug\EÖğrenci.pdb
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.Form1.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.Properties.Resources.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.exe
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.pdb
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.ÖğrenciNot.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.FrmKulüpİslemleri.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.ÖğretmenPanel.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.FrmDersler.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.FrmÖgrenci.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.FrmOgrenciNot.resources
+C:\Users\PC\source\repos\EÖğrenci\EÖğrenci\obj\Debug\EÖğrenci.FrmÖğretmenler.resources
